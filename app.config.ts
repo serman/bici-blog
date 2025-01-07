@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "Bici Rutas Gravel",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,9 +10,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Minted Directory",
-    description: "Example Description",
-    url: "https://example.com",
+    name: "Bici Rutas Gravel",
+    description: "Un archivo de rutas fiables",
+    url: "https://bicirutas-gravel.netlify.app",
     favicon: {
       image: "",
       emoji: "🍃",
@@ -73,23 +73,14 @@ export default defineAppConfig({
   },
   header: {
     banner: {
-      show: true,
+      show: false,
       text: "Create your own directory website in minutes.",
       link: "https://minteddirectory.com",
       brandText: "MintedDirectory",
     },
     navbar: {
-      colorModeSelector: true,
-      links: [
-        { name: "Directory", to: "/" },
-        { name: "Blog", to: "/blog" },
-        { name: "Advertise", to: "/advertise" },
-        {
-          name: "Analytics",
-          to: "https://us.posthog.com/shared/7dgSk4cvgNYnJwBu6R47kZXHBUBJWQ",
-          target: "_blank",
-        },
-      ],
+      colorModeSelector: "",
+      links: [null, null, null, null],
     },
     actionButton: {
       text: "Submit a starter",
@@ -97,7 +88,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Best directory for my niche.",
+    description: "",
     socials: {
       github: {
         link: "",
