@@ -21,13 +21,15 @@ Una web para ayudar a novatos como yo a hacer km en bici sin peligro y descubrie
 
 ## Gravel
 
-Hasta hace poco no sabía que era una bici "gravel" pero cuando las ví supe que era el tipo de bici que necesitaba Siempre me han gustado las bicis de carretera, pero por desgracia las carreteras del sitio donde vivo tienen siempre mucho tráfico y no voy a gusto. Además ir por el campo también me gusta. Sin embargo tampoco estoy echo para los senderitos de Mountain Bike. Soy más de subir cuestas que de bajarlas, y tirarme por un camino lleeno de piedras tampoco me gusta.
+Hasta hace poco no sabía que era una bici "gravel". Cuando leí sobre ellas caí en la cuenta de que era el tipo de bici que necesitaba.
 
-Por eso una bici gravel me parece un buen termino medio. Me permite ir por caminos de tierra, por carreteras en cualquier estado y hacer muchos km que es lo que me motiva
+Siempre me han gustado las bicis de carretera, pero por desgracia las carreteras de donde vivo tienen siempre mucho tráfico. Es lo que tiene vivir rodeado de otros 4 millones de personas. Por otro lado ir por el campo también gusta... aunque no estoy hecho para los senderitos de Mountain Bike. Tirarme por un camino lleeno de piedras tampoco me gusta. En fin, soy un ciclista un poco "si es no es"... Justo como una bici gravel.
+
+Me permite ir por caminos de tierra, saltar a un carretera otro rato, bajar luego un senderito.... Lo necesario para poder explorar haciendo km.
 
 ## Qué rutas
 
-Internet está llena de gente altruista que sube sus excursiones, pero hay tanto y de tantos años que a veces es dificil saber qué rutas son apropiadas. Muchas rutas son de MTB o carretera y te puedes ver por una trialera que da miedo o por una medio autovia con poco arcén.
+Internet está llena de gente altruista que sube sus excursiones, pero hay tanto y de tantos años que a veces es dificil saber qué rutas son apropiadas. Muchas son de MTB o carretera y te puedes ver por una trialera que da miedo o por una medio autovia con poco arcén.
 
 También me gusta combinar el tren con la bici, permite hader rutas lineales y llegar a sitios más lejanos.
 
@@ -37,6 +39,6 @@ La mayoría de las rutas serán de Madrid y alrededores, pero cuando tengo suert
 
 ## El internet vallado
 
-Komoot, Strava y wikiloc son geniales. Mi GPS sube las rutas automáticamente y cuando llego me paso un rato viendo, los datos, las estadístias etc...
+Komoot, Strava y wikiloc son geniales. El Garmin sube las rutas automáticamente y cuando llego me paso un rato viendo, los datos, las estadísticas etc...
 
-Sin embargo al final son
+Sin embargo, lo que subimos ahí... deja de ser público. Wikiloc es bastante abierto , pero no deja hacer de todo con esos tracks. Strava está totalmente pensado para usuarios de strava. Por eso vuelvo a la auto publicación.
