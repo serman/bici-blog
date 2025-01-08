@@ -79,37 +79,14 @@ export default defineAppConfig({
       brandText: "MintedDirectory",
     },
     navbar: {
-      colorModeSelector: "",
-      links: [null, null, null, null],
-    },
-    actionButton: {
-      text: "Submit a starter",
-      href: "/submit",
-    },
+      colorModeSelector: true,
+      links: [{}],
+    }
   },
   footer: {
     description: "",
     socials: {
-      github: {
-        link: "",
-        icon: "tabler:brand-github",
-      },
-      facebook: {
-        link: "",
-        icon: "tabler:brand-facebook",
-      },
-      instagram: {
-        link: "",
-        icon: "tabler:brand-instagram",
-      },
-      x: {
-        link: "https://x.com/mark_bruderer",
-        icon: "tabler:brand-twitter",
-      },
-      youtube: {
-        link: "https://www.youtube.com/@mark_hacks",
-        icon: "tabler:brand-youtube",
-      },
+     
     },
   },
   ui: {

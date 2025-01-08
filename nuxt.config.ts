@@ -49,7 +49,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    url: "https://example.com",
+    url: "https://bicirutas-gravel.netlify.app",
   },
   compatibilityDate: "2024-09-20",
 });
